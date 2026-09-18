@@ -1,20 +1,57 @@
-# Hi there, I'm Gowtham Krish 👋
+# 🤟 Hi, I'm Gowtham Krish
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on: **Project Name / Tech Stack**
-- 🌱 I’m currently learning: **Python, React, Cloud Computing**
-- 💬 Ask me about: **JavaScript, Web Development, DSA**
-- ⚡ Fun fact: **Just another human talking to machines.**
+### <p align="center">Full-Stack Web Developer 🌐</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20Space&fontSize=38&fontAlignY=55&desc=Just%20building%20things.&descAlignY=75&descSize=18" width="100%" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python, JavaScript(ES6+), HTML/CSS
-- **Frameworks & Libraries:** React, Node.js, Bootstrap, Tailwind
-- **Tools & Platforms:** Git, GitHub, VS Code, Vite
+### 🚀 About Me
 
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <br />
+      <p>⚡ <b>Focused on</b> building clean, high-performance web applications</p>
+      <p>🌐 <b>Architecting</b> modern full-stack systems</p>
+      <p>💼 <b>Open for</b> freelance opportunities & collaborative projects</p>
+      <p>☕ <b>Fueled by</b> tea, curiosity, and continuous learning</p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="100%" alt="Developer Illustration" />
+    </td>
+  </tr>
+</table>
 
+---
 
-### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/gowtham-krishnan-r-2a8169361)
-- **Email:** krishgowtham29@gmail.com
+### 🛠️ Tech Stack & Ecosystem
+
+#### 💻 Languages & Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,c,html,css,react,tailwind" />
+  </a>
+</p>
+
+#### ⚙️ Backend, Databases & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,linux,git,github" />
+  </a>
+</p>
+
+#### 🧰 Tools & Hosting Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,vscode,notion,vercel,netlify,figma" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
