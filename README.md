@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gowtham Krish 👋
 
-<!--
-**gowthamkrish29/gowthamkrish29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on: **[Project Name / Tech Stack]**
+- 🌱 I’m currently learning: **[Python, React, Cloud Computing]**
+- 💬 Ask me about: **[JavaScript, Web Development, DSA]**
+- ⚡ Fun fact: **[Just another human talking to machines.]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, JavaScript(ES6+), HTML/CSS
+- **Frameworks & Libraries:** React, Node.js, Bootstrap, Tailwind
+- **Tools & Platforms:** Git, GitHub, VS Code, Vite
+
+---
+
+### 📊 GitHub Stats
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamkrish29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamkrish29&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/gowtham-krishnan-r-2a8169361)
+- **Email:** krishgowtham29@gmail.com
