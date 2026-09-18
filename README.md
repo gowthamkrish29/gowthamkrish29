@@ -20,7 +20,7 @@
       <p>☕ <b>Fueled by</b> tea, curiosity, and continuous learning</p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="100%" alt="Developer Illustration" />
+     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
