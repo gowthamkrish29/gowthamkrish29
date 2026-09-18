@@ -20,7 +20,7 @@
       <p>☕ <b>Fueled by</b> tea, curiosity, and continuous learning</p>
     </td>
     <td width="45%" align="center" valign="middle">
-     <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-logic-illustration-download-in-svg-png-gif-file-formats--programming-development-coding-software-pack-network-communication-illustrations-4043916.png" width="100%" alt="Developer Illustration" />
+     <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
